@@ -1,0 +1,23 @@
+#body-style {
+  /* left-side is property and right side is the value of that property */
+  font-family: verdana, sans-serif;
+  text-align: center;
+  background-color: #f6f6f6;
+}
+#h2-style {
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+  background-color: #E1BC29;
+}
+#h3-style {
+  text-align: left;
+  text-decoration: underline;
+}
+.p-style {
+  font-size: 20px;
+  font-weight: 100;
+}
+.ol-style li{
+  text-align: left;
+}
